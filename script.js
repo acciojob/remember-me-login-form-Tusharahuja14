@@ -3,7 +3,7 @@ let username = document.getElementById("username");
 let password = document.getElementById("password");
 let checkbox = document.getElementById("checkbox");
 let form = document.querySelector("form");
-let existing = document.getElementById("existng"); // Corrected ID
+let existing = document.getElementById("existing"); // Corrected ID
 
 // Prevent form submission
 form.addEventListener("submit", function (e) {
